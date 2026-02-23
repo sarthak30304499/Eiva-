@@ -8,7 +8,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   // Base path for GitHub Pages — must match the repo name
-  base: '/EivaAI/',
+  base: '/Eiva-/',
   server: {
     port: 5173,
     proxy: {
